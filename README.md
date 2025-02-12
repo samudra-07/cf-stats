@@ -1,11 +1,11 @@
 # Codeforces Stat Visualization
 
-<a href="https://github.com/sudiptob2/cf-stats">
+<a href="https://github.com/samudra-07/cf-stats">
 <img src="https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
-<a href="https://github.com/sudiptob2/cf-stats">
+<a href="https://github.com/samudra-07/cf-stats">
 <img src="https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/max_rating.svg" />
 <img src="https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/rating.svg" />
 </a>
@@ -16,7 +16,7 @@
 
 1. Star this repository :pray:
 2. Create a copy of this repository by clicking
-   [here](https://github.com/sudiptob2/cf-stats/generate). Note: this is
+   [here](https://github.com/samudra-07/cf-stats/generate). Note: this is
    **not** the same as forking a copy because it copies everything fresh,
    without the huge commit history.
 3. Goto [config/.env.template](config/.env.template) and put your codeforces handle in the `CF_HANDLE` key.
