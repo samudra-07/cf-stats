@@ -32,8 +32,8 @@
 
   
    ```md
-   ![](https://raw.githubusercontent.com/samudra038/cf-stats/main/output/max_rating.svg)
-   ![](https://raw.githubusercontent.com/samudra038/cf-stats/main/output/rating.svg)
+   ![](https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/max_rating.svg)
+   ![](https://raw.githubusercontent.com/samudra0-07/cf-stats/main/output/rating.svg)
    ```
 
 
