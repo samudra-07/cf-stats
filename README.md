@@ -32,6 +32,7 @@
 
   
    ```md
+   ![](https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
    ![](https://raw.githubusercontent.com/samudra-07/cf-stats/main/output/max_rating.svg)
    ![](https://raw.githubusercontent.com/samudra0-07/cf-stats/main/output/rating.svg)
    ```
