@@ -30,22 +30,10 @@
    following lines of code into your markdown content. Change the `your-github-username`
    value to your GitHub username.
 
+  
    ```md
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+   ![](https://raw.githubusercontent.com/samudra038/cf-stats/main/output/max_rating.svg)
+   ![](https://raw.githubusercontent.com/samudra038/cf-stats/main/output/rating.svg)
    ```
-   ```md
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
-   ```
-### Video Demonstration
-  - [(हिन्दी)](https://www.youtube.com/watch?v=lPASqH0ZoIc)  Contributed by [shubhankarsharma876](https://github.com/shubhankarsharma876)
-    
-# Contribution guideline
 
-If you like this project and want to improve by adding features, fixing bugs, or anything, please follow
-the [contributing guidelines](docs/CONTRIBUTING.md).
-
-# Acknowledgments
-SVG design is contributed by [Nazmul Hasan](https://github.com/nazmulweb)
 
